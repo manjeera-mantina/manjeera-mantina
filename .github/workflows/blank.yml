@@ -35,7 +35,7 @@ jobs:
       
       # Runs a set of commands to display stats
       - name: Profile Readme Development Stats
-      - uses: anmol098/waka-readme-stats@v4
+        uses: anmol098/waka-readme-stats@v4
         
           echo Add other actions to build,
           echo test, and deploy your project.
